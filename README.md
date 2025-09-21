@@ -55,12 +55,11 @@ pip install python-pkcs11 cryptography lxml
 ## Proje Yapısı
 
 ```
-AkisSigning/
+kamusm-akis-signature/
 ├── main.py                 # Ana uygulama dosyası
 ├── debug.py                # Debug ve test araçları
 ├── akis_lib/
 │   └── akisp11.dll         # KAMUSM PKCS#11 kütüphanesi
-├── signed_earsiv_*.xml     # İmzalanmış XML dosyaları (otomatik oluşur)
 ├── README.md               # Bu dosya
 └── requirements.txt        # Python bağımlılıkları
 ```
