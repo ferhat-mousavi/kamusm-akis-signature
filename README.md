@@ -23,6 +23,11 @@ Bu proje, KAMUSM (Kamu Sertifikasyon Merkezi) tarafından verilen e-imza kartlar
 ```bash
 pip install python-pkcs11 cryptography lxml
 ```
+yada
+
+```bash
+pip install -r requirements.txt
+```
 
 ### Donanım Gereksinimleri
 - KAMUSM onaylı e-imza kartı
