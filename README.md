@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 1. **Projeyi klonlayın**:
 ```bash
-git clone https://github.com/kullanici/kamusm-akis-signature.git
+git clone https://github.com/ferhat-mousavi/kamusm-akis-signature.git
 cd kamusm-akis-signature
 ```
 
