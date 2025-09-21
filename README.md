@@ -264,6 +264,6 @@ Sorun yaşadığınızda:
 
 ---
 
-**Geliştirici**: [Adınız]  
-**E-posta**: [email@example.com]  
+**Geliştirici**: Ferhat Mousavi  
+**E-posta**: [ferhat.mousavi@gmail.com]  
 **Proje**: KAMUSM E-İmza XML İmzalama Aracı
