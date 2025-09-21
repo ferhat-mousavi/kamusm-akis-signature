@@ -33,8 +33,8 @@ pip install python-pkcs11 cryptography lxml
 
 1. **Projeyi klonlayın**:
 ```bash
-git clone https://github.com/kullanici/AkisSigning.git
-cd AkisSigning
+git clone https://github.com/kullanici/kamusm-akis-signature.git
+cd kamusm-akis-signature
 ```
 
 2. **Sanal ortam oluşturun**:
